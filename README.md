@@ -29,27 +29,27 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appan-roy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
-ðŸ¢ **PwC Acceleration Center**
+**PwC Acceleration Center**
 
-ðŸ“ **Kolkata, West Bengal, India**
+**Kolkata, West Bengal, India**
 
-ðŸ’¼ **11+ years in QA**
+**11+ years in QA**
 
-ðŸ”­ Currently working on **[appan-roy](https://github.com/appan-roy/appan-roy)**
+Currently working on **[appan-roy](https://github.com/appan-roy/appan-roy)**
 
-ðŸŒ± Currently learning **Cypress**
+Currently learning **Cypress**
 
-ðŸ’¬ Ask me about **Test Automation**
+Ask me about **Test Automation**
 
-ðŸŽ“ Certifications: **AWS, Azure, LambaTest**
+Certifications: **AWS, Azure, LambaTest**
 
 
-ðŸ“¦ **49** repositories | â­ **4** stars
+**49** repositories | â­ **4** stars
 
 <br clear="right"/>
 
 
-### ðŸ¤ Open For
+### Open For
 
 <p>
 
@@ -157,16 +157,16 @@
 
 </div>
 
-### ðŸ“Š Top Repositories
+### Top Repositories
 
 <table>
 <thead>
 <tr>
-<th>ðŸš€ Project</th>
-<th>ðŸ“ Description</th>
-<th>â­ Stars</th>
-<th>ðŸ´ Forks</th>
-<th>ðŸ’» Language</th>
+<th>Project</th>
+<th>Description</th>
+<th>Stars</th>
+<th>Forks</th>
+<th>Language</th>
 </tr>
 </thead>
 <tbody>
@@ -216,7 +216,7 @@
 </table>
 
 <p align="center">
-  <i>ðŸ’¡ Total of <b>49</b> repositories â€” <b>4</b> stars earned</i>
+  <i>Total of <b>49</b> repositories<b>4</b> stars earned</i>
 </p>
 
 
@@ -227,11 +227,11 @@
 
 <div align="center">
 
-| ðŸ† Achievement | ðŸ“Š Status |
+| Achievement | Status |
 |:-------------:|:---------:|
-| ðŸ“ 25+ Repositories | âœ… Unlocked |
-| ðŸŽ‚ 5+ Years on GitHub | âœ… Unlocked |
-| ðŸ’» HTML Expert | âœ… Unlocked |
+| 25+ Repositories | Unlocked |
+| 5+ Years on GitHub | Unlocked |
+| HTML Expert | Unlocked |
 
 </div>
 
@@ -270,7 +270,7 @@
 
 <a href="https://github.com/appan-roy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-ðŸ“« **Reach out** â€” I'd love to hear from you!
+**Reach out** I'd love to hear from you!
 
 </div>
 
@@ -280,6 +280,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
 
-**â­ From [appan-roy](https://github.com/appan-roy) with â¤ï¸**
+** From [appan-roy](https://github.com/appan-roy) with ❤️**
 
 </div>
