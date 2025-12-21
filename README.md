@@ -44,7 +44,7 @@ Ask me about **Test Automation**
 Certifications: **AWS, Azure, LambaTest**
 
 
-**49** repositories | â­ **4** stars
+**49** repositories | **4** stars
 
 <br clear="right"/>
 
@@ -53,8 +53,8 @@ Certifications: **AWS, Azure, LambaTest**
 
 <p>
 
-<img src="https://img.shields.io/badge/ðŸ¤_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
-<img src="https://img.shields.io/badge/ðŸ’°_Freelance-Available-orange?style=for-the-badge" alt="Freelance"/>
+<img src="https://img.shields.io/badge/_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
+<img src="https://img.shields.io/badge/_Freelance-Available-orange?style=for-the-badge" alt="Freelance"/>
 
 
 </p>
@@ -86,7 +86,7 @@ Certifications: **AWS, Azure, LambaTest**
 <tr>
 <td valign="top" width="33%">
 
-<h3 align="center">ðŸ§ª Testing & QA</h3>
+<h3 align="center">Testing & QA</h3>
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
@@ -109,7 +109,7 @@ Certifications: **AWS, Azure, LambaTest**
 </td>
 <td valign="top" width="33%">
 
-<h3 align="center">ðŸ’» Development</h3>
+<h3 align="center">Development</h3>
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
@@ -124,7 +124,7 @@ Certifications: **AWS, Azure, LambaTest**
 </td>
 <td valign="top" width="33%">
 
-<h3 align="center">âš™ï¸ DevOps & Tools</h3>
+<h3 align="center">DevOps & Tools</h3>
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
