@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=appan-roy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Lead&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Appan%20Singha%20Roy&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDET%20%2F%20Automation%20QA&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/appan-roy">
@@ -12,7 +12,7 @@
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-QA-70a5fd?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-SDET-70a5fd?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/6+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
   <img src="https://img.shields.io/badge/4-Stars_Earned-70a5fd?style=for-the-badge" alt="stars"/>
   <img src="https://komarev.com/ghpvc/?username=appan-roy&style=for-the-badge&color=70a5fd" alt="views"/>
@@ -29,13 +29,15 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appan-roy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
+ðŸ¢ **PwC Acceleration Center**
 
+ðŸ“ **Kolkata, West Bengal, India**
 
 ðŸ’¼ **11+ years in QA**
 
-ðŸ”­ Currently working on **[PW_Cucumber_ChainTest](https://github.com/appan-roy/PW_Cucumber_ChainTest)**
+ðŸ”­ Currently working on **[appan-roy](https://github.com/appan-roy/appan-roy)**
 
-ðŸŒ± Currently learning **Cypress, **
+ðŸŒ± Currently learning **Cypress**
 
 ðŸ’¬ Ask me about **Test Automation**
 
@@ -46,6 +48,16 @@
 
 <br clear="right"/>
 
+
+### ðŸ¤ Open For
+
+<p>
+
+<img src="https://img.shields.io/badge/ðŸ¤_Collaboration-Welcome-blue?style=for-the-badge" alt="Collaboration"/>
+<img src="https://img.shields.io/badge/ðŸ’°_Freelance-Available-orange?style=for-the-badge" alt="Freelance"/>
+
+
+</p>
 
 
 ---
@@ -106,7 +118,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Groovy"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 </div>
 
@@ -141,8 +152,8 @@
 <a href="https://github.com/appan-roy/Learn_Selenium_Python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=appan-roy&repo=Learn_Selenium_Python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Learn_Selenium_Python"/></a>
 <a href="https://github.com/appan-roy/Learn_Selenium_Python_Unittest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=appan-roy&repo=Learn_Selenium_Python_Unittest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Learn_Selenium_Python_Unittest"/></a>
 <a href="https://github.com/appan-roy/Selenium_Python_Hybrid_Framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=appan-roy&repo=Selenium_Python_Hybrid_Framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Selenium_Python_Hybrid_Framework"/></a>
+<a href="https://github.com/appan-roy/appan-roy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=appan-roy&repo=appan-roy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="appan-roy"/></a>
 <a href="https://github.com/appan-roy/PW_Cucumber_ChainTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=appan-roy&repo=PW_Cucumber_ChainTest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="PW_Cucumber_ChainTest"/></a>
-<a href="https://github.com/appan-roy/Healenium_ChainTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=appan-roy&repo=Healenium_ChainTest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Healenium_ChainTest"/></a>
 
 </div>
 
@@ -188,15 +199,15 @@
 <td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/appan-roy/PW_Cucumber_ChainTest"><b>PW_Cucumber_ChainTest</b></a></td>
-<td>No description</td>
+<td><a href="https://github.com/appan-roy/appan-roy"><b>appan-roy</b></a></td>
+<td>My GitHub Profile README</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
+<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/appan-roy/Healenium_ChainTest"><b>Healenium_ChainTest</b></a></td>
-<td>This project is built on Healenium with TestNG and ChainTest...</td>
+<td><a href="https://github.com/appan-roy/PW_Cucumber_ChainTest"><b>PW_Cucumber_ChainTest</b></a></td>
+<td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
 <td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
