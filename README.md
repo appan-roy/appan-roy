@@ -33,7 +33,7 @@
 
 **Kolkata, West Bengal, India**
 
-**11+ years in QA**
+**12+ years in QA**
 
 Currently working on **[appan-roy](https://github.com/appan-roy/appan-roy)**
 
